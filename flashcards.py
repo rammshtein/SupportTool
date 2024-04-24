@@ -11,7 +11,6 @@ def current_time():
     return "This page was served and updated at :" + str(datetime.now())
 
 counter=0
-
 @app.route("/count_views")
 def count_views():
     global counter
