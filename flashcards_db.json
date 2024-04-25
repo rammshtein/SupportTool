@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Hello (formal)",
+    "answer": "Здравствуйте"
+  },
+
+  {
+    "question": "Goodbay (formal)",
+    "answer": "Пока"
+  },
+
+  {
+    "question": "Good morning",
+    "answer": "Доброе утро"
+  }
+]
